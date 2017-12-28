@@ -1,4 +1,4 @@
 malaynayak.github.io
 ====================
 
-My Site
+Malay Nayak - Full Stack Developer
